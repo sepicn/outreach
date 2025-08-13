@@ -1,0 +1,6 @@
+venv/
+.env
+insta_session.json
+dm_sent.sqlite3
+__pycache__/
+*.pyc
